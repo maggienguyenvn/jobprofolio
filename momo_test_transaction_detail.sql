@@ -4,7 +4,7 @@
 CREATE OR REPLACE TABLE `inlaid-fx-441715-m8.SQL_Test.Transaction_detail` as
 
 SELECT      tr.*,
-            sc.Merchant_name,
+            sc.Merchant_name ,
             format_timestamp('%Y-%m',tr.date_mofidied) as year_month,
             DATE_TRUNC(date_mofidied,MONTH) as month,
             Extract(dayofweek from tr.date_mofidied) as day_of_week,
