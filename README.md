@@ -1,2 +1,2 @@
 # jobprofolio
-Momo test
+Momo test for Thin
