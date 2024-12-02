@@ -21,3 +21,4 @@ SELECT DISTINCT user_id,
          END as status_month
          
   from consolidate1
+--This is the test of commit
