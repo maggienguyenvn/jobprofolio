@@ -1,3 +1,2 @@
 # jobprofolio
-This is space to consolidate Momo_test for data analyst
-This is new branch 2
+This project contain code for momo specific project
